@@ -1,0 +1,71 @@
+{
+	"events" :[{
+		"name" : "Congress of Vienna",
+		"type" : "treaty",
+		"year" : 1814
+	},{
+		"name" : "World War I",
+		"year" : 1914,
+		"type" : "conflict",
+		"subevents" : [{
+			"name" : "Battle of Verdun",
+			"year" : 1916
+		},{
+			"name" : "Archduke assassination",
+			"year" : 1914
+		},{
+			"name" : "Armistice of Compiegne",
+			"type" : "treaty",
+			"year" : 1918
+		}]
+	},{
+		"name" : "Partitioning of India",
+		"year" : 1947,
+		"type" : "treaty"
+	},{
+		"name" : "Dissolution of the Kingdom of Italy",
+		"year" : 1946,
+		"subevents" : [{
+			"name" : "Institutional Referendum of Italy",
+			"type" : "vote",
+			"year" : 1946
+			}]
+	},{
+		"name" : "The Great Famine",
+		"year" : 1845,
+		"type" : "calamity"
+	},{
+		"name" : "Great Fire of London",
+		"year" : 1666,
+		"type" : "calamity"
+	},{
+		"name" : "First flight of the Concorde",
+		"year" : 1969
+	},{
+		"name" : "Wars of German Unification",
+		"year" : 1864,
+		"type" : "conflict",
+		"subevents" : [{
+			"name" : "Second Schleswig War",
+			"year" : 1864
+		},{
+			"name" : "Austro-Prussian War",
+			"year" : 1866
+		},{
+			"name" : "Franco-Prussian War",
+			"year" : 1870
+			}]
+	},{
+		"name" : "War of the Austrian Succession",
+		"year" : 1740,
+		"type" : "conflict",
+		"subevents" : [{
+			"name" : "Battle of Mollwitz",
+			"year" : 1740
+			}]
+	},{
+		"name" : "First Crusade",
+		"year" : 1095,
+		"type" : "conflict"						
+	}]
+}

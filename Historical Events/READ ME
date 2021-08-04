@@ -1,0 +1,23 @@
+Locations:
+
+The main method of this application can be found in the Application.java file, which is in the HistoricalEvents package contained in the src/main/java folder path.
+The other java files are contained in the HistoricalEvents.model package, also contained in the src/main/java folder path.
+The folder entitled 'UML' contains both the Class Diagram and Use Case Diagram for the application. This can be found in the 'target' folder.
+  
+How to use application: 
+ 
+To use application simply run and then select an option from the menu.
+Option 1 will allow the user to choose a single year and print the events in said year.
+Option 2 will allow the user to choose a range of years. They will enter a start year and an end year, and the events within the specified range will be printed.
+Option 3 will allow the user to obtain the full list of events from the json file.
+Option 4 will terminate the program.
+
+Design instances:
+
+An example of the Singleton pattern can be seen in EventsContainer.java (See in-line comments).
+The Open-Closed principle can be seen  
+
+Other information of note:
+
+The pom.xml file contains the dependencies used to allow the use of the jackson resource which enables the use of JSON. 
+The pom.xml file is contained in the overall assignment2-07355238 file folder.

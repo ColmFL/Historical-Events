@@ -8,7 +8,7 @@ interface.
 
 ## **Tech/Frameworks Used**
 Apache Maven was used to build and manage the project. The Jackson Databind dependency was used to convert the JSON
-to POJO(Plain Old Java Object).
+to POJO (Plain Old Java Object).
 
 ## **How To Use**
 The program runs on an IDE with a JRE.

@@ -1,8 +1,8 @@
 # Historical-Events
 
 
-##**Motivation**##
+## **Motivation**
 
-##**Tech/Frameworks Used**##
+## **Tech/Frameworks Used**
 
-##**How To Use**##
+## **How To Use**
